@@ -1,9 +1,10 @@
 ## NerdV4
 ```lua
-not released!!
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BirthScripts/NerdV4/main/Loader.lua"))()
 ```
 
 join the discord, i guess https://discord.gg/DXkvE2YThb
 
 ### Features
-NOTHING YET!!
+PlayerTP
+(idk whats more but ill type later)
