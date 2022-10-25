@@ -1,7 +1,6 @@
 ## NerdV4
 ```lua
-NOT WORKING ANYMORE
-MAY FIX SOON
+NOT FIXING (DISCONTINUED)
 ```
 
 join the discord https://discord.gg/DXkvE2YThb
